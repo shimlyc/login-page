@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.div1{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(https://images.unsplash.com/photo-1621977899095-071aac9a9798?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80); 
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.div2{
+    background-color: rgba(64, 62, 60, 0.758);
+    width: 450px;
+    height: 600px;
+    border-radius: 30px;
+    
+
+
+    
+    
+}
+i{
+    font-size: 40px;
+    color:white;
+    margin-top: 18px;
+    margin-left: 180px;
+
+    
+}
+input{
+    background-color:transparent ;
+   border: 1px solid white;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 40px;
+    text-align: center;
+
+    
+    
+}
+button{
+    padding: 10px 60px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    color: rgb(59, 9, 9);
+    margin-left: 120px;    
+    margin-top: 40px;
+}
+a{
+    color: rgb(61, 10, 10);
+    
+}
+p{
+    color: white;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+a:hover{
+    color: black;
+}
+.para{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.div3{
+    border-top: 1px solid rgba(255, 255, 255, 0.474);
+     margin-top: 60px;
+
+}
+
+
+
+
+
